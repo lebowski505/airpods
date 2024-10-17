@@ -309,7 +309,7 @@ body{
     flex-wrap: wrap;
 }
 
-/* @media (max-width: 1200px){
+@media (max-width: 1200px){
     .choose-color__list{
         flex-wrap: wrap;
     }
@@ -362,4 +362,4 @@ body{
         gap: 10px;
         justify-content: center;
     }
-} */
+}
